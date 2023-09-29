@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+header{
+    background-color: #0020F4;
+    width: 1920px;
+    height: 387,56px;
+}
+.iconHeader{
+    width: 115px;
+    height: 65px;
+    object-fit: cover;
+    margin-left: 240px;
+    padding-top: 40px;
+}
+nav{
+    margin-left: 843px;
+    padding-top: 64px;
+}
+nav ul li{
+    margin-right:53px;
+}
+.contactNav{
+    width: 160px;
+    height: 55px;
+    background-color: white;
+    border-radius: 28px;
+}
+.contactNav a{
+    padding-left: 36px;
+    padding-right: 43px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+.HomeSky{
+    width: 1195px;
+    height: 600px;
+    margin-top: 215px;
+    margin-left: 363px;
+}
+h2{
+    margin-top: 15px;
+    margin-left: 362px;
+}
+.main{
+ margin-left: 362px;
+ margin-top: 60px;
+ padding-left: 25px;
+}
+.maincube{
+    padding-left: 15px;
+    float: left;
+}
+.aticlemain{
+    margin-top: 50px;
+    margin-left: 484,5;
+}
+.addtionalmain{
+    width: 341px;
+    height: 55px;
+    background-color: #0A22F4;
+}
+h4{
+    padding-left: 55px;
+    padding-right: 77px;
+    padding-top: 18px;
+    border-radius: 28px;
+}
+footer{
+    width: 1920px;
+    height: 1080;
+}
+.input-Registration{
+    border-bottom: #FFFFFF;
+}
